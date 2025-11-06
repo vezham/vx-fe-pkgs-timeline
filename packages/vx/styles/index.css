@@ -1,4 +1,5 @@
 @import 'tailwindcss';
+@import '@vx-oss/heroui-v3-styles';
 
 @plugin './plugin.ts';
 

@@ -3,6 +3,9 @@
   "include": [],
   "references": [
     {
+      "path": "../../packages/core/react"
+    },
+    {
       "path": "../../packages/vx/system-utils"
     },
     {

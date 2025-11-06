@@ -1,0 +1,27 @@
+{
+  "name": "@vezham/react",
+  "version": "0.0.1",
+  "type": "module",
+  "exports": {
+    "./package.json": "./package.json",
+    ".": {
+      "types": "./dist/index.d.ts",
+      "import": "./dist/index.js"
+    },
+    "./v3": {
+      "types": "./dist/heroui/v3/index.d.ts",
+      "import": "./dist/heroui/v3/index.js"
+    }
+  },
+  "main": "./dist/index.js",
+  "module": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "files": [
+    "dist",
+    "!**/*.tsbuildinfo"
+  ],
+  "dependencies": {
+    "@vx-oss/heroui-v2-react": "^2.8.6-alpha.0",
+    "@vx-oss/heroui-v3-react": "^3.0.0-alpha.34"
+  }
+}
