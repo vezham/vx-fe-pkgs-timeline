@@ -1,6 +1,6 @@
 {
   "name": "@vezham/react",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "type": "module",
   "exports": {
     "./package.json": "./package.json",
