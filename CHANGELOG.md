@@ -1,3 +1,13 @@
+## 0.4.0-alpha.0 (2025-11-06)
+
+### 🩹 Fixes
+
+- added version alias ([43e6392](https://github.com/vezham/vx-fe-pkgs-timeline/commit/43e6392))
+
+### ❤️ Thank You
+
+- v0xvigneshwaran
+
 ## 0.1.0 (2025-11-06)
 
 ### 🚀 Features
