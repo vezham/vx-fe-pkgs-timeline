@@ -1,3 +1,13 @@
+## 0.4.0-alpha.1 (2025-11-09)
+
+### 🏡 Chore
+
+- ver bump to beta ([778fbfc](https://github.com/vezham/vx-fe-pkgs-timeline/commit/778fbfc))
+
+### ❤️ Thank You
+
+- v0xvigneshwaran
+
 ## 0.4.0-alpha.0 (2025-11-06)
 
 ### 🩹 Fixes
