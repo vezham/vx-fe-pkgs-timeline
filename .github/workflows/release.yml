@@ -69,7 +69,7 @@ jobs:
         with:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           NPM_TOKEN: ${{ secrets.VX_DEPLOYER_NPM }}
-          NPM_PROVENANCE: false
+          NPM_PROVENANCE: true
           version: ${{ github.event.inputs.version }}
           args: ${{ github.event.inputs.args }}
 

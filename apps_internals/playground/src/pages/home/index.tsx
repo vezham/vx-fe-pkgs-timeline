@@ -94,7 +94,7 @@ const app = () => {
       </TextField>
 
       <ButtonV3 children="sdjnkjdskd" />
-      <Button children="sdjnkjdskd" variant="solid" color="primary" />
+      <Button children="sdjnkjdskd | success" variant="solid" color="success" />
       <div>Welcome to Playground!...</div>
       <Posts />
     </>

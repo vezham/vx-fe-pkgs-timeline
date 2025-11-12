@@ -1,16 +1,25 @@
 {
   "name": "@vezham/react",
   "version": "0.4.0-alpha.1",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vezham/vx-fe-pkgs-timeline.git",
+    "directory": "packages/core/react"
+  },
   "type": "module",
   "exports": {
-    "./package.json": "./package.json",
     ".": {
       "types": "./dist/index.d.ts",
       "import": "./dist/index.js"
     },
+    "./package.json": "./package.json",
     "./v2": {
       "types": "./dist/heroui/v2/index.d.ts",
       "import": "./dist/heroui/v2/index.js"
+    },
+    "./v2-plugin": {
+      "types": "./dist/heroui/v2-plugin/index.d.ts",
+      "import": "./dist/heroui/v2-plugin/index.js"
     },
     "./v3": {
       "types": "./dist/heroui/v3/index.d.ts",
@@ -26,7 +35,6 @@
   ],
   "dependencies": {
     "@vx-oss/heroui-v2-react": "^2.8.6-alpha.1",
-    "@vx-oss/heroui-v3-react": "^3.0.0-beta.4",
-    "@vx-oss/heroui-v3-styles": "^3.0.0-beta.4"
+    "@vx-oss/heroui-v3-react": "^3.0.0-beta.4"
   }
 }

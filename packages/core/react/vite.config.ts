@@ -33,6 +33,7 @@ export default defineConfig(() => ({
       entry: {
         index: 'src/index.ts',
         'heroui/v2/index': 'src/heroui/v2/index.ts',
+        'heroui/v2-plugin/index': 'src/heroui/v2-plugin/index.ts',
         'heroui/v3/index': 'src/heroui/v3/index.ts'
       },
       name: 'react',

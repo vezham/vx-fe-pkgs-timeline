@@ -4,6 +4,7 @@
   "private": true,
   "devDependencies": {
     "@vezham/react": "workspace:*",
+    "@vezham/styles": "workspace:*",
     "@vx/start": "workspace:*",
     "@vx/system-utils": "workspace:*"
   }
