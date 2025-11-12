@@ -1,3 +1,22 @@
+## 0.4.0-alpha.2 (2025-11-12)
+
+### 🚀 Features
+
+- added @vezham/styles ([01b9ea3](https://github.com/vezham/vx-fe-pkgs-timeline/commit/01b9ea3))
+
+### 🩹 Fixes
+
+- lint playground ([8043149](https://github.com/vezham/vx-fe-pkgs-timeline/commit/8043149))
+- ignore qa paths ([26e29db](https://github.com/vezham/vx-fe-pkgs-timeline/commit/26e29db))
+
+### 🏡 Chore
+
+- enabled nx cloud ([d55b109](https://github.com/vezham/vx-fe-pkgs-timeline/commit/d55b109))
+
+### ❤️ Thank You
+
+- v0xvigneshwaran
+
 ## 0.4.0-alpha.1 (2025-11-09)
 
 ### 🏡 Chore
