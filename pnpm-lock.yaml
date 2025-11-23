@@ -255,12 +255,6 @@ importers:
 
   apps_internals/playground:
     devDependencies:
-      '@vezham/react':
-        specifier: workspace:*
-        version: link:../../packages/core/react
-      '@vezham/styles':
-        specifier: workspace:*
-        version: link:../../packages/core/styles
       '@vx/start':
         specifier: workspace:*
         version: link:../../packages/vx/start

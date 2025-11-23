@@ -3,8 +3,6 @@
   "version": "0.4.0-alpha.2",
   "private": true,
   "devDependencies": {
-    "@vezham/react": "workspace:*",
-    "@vezham/styles": "workspace:*",
     "@vx/start": "workspace:*",
     "@vx/system-utils": "workspace:*"
   }
