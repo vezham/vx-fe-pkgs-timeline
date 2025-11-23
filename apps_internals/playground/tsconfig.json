@@ -3,15 +3,6 @@
   "include": [],
   "references": [
     {
-      "path": "../../packages/core/react"
-    },
-    {
-      "path": "../../packages/vx/system-utils"
-    },
-    {
-      "path": "../../packages/vx/start"
-    },
-    {
       "path": "./tsconfig.app.json"
     },
     {

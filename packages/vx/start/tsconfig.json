@@ -3,12 +3,6 @@
   "include": [],
   "references": [
     {
-      "path": "../../core/react"
-    },
-    {
-      "path": "../system-utils"
-    },
-    {
       "path": "./tsconfig.lib.json"
     },
     {

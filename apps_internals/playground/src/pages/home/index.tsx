@@ -9,6 +9,7 @@ import {
   FieldError,
   Input,
   Label,
+  Separator,
   TextField,
   Tooltip
 } from '@vezham/react/v3'
@@ -18,7 +19,7 @@ import Posts from './posts'
 
 const NAMESPACE = 'App/Home'
 
-const App = () => {
+export default () => {
   const [value, setValue] = useState('')
   const isInvalid = value.length > 0 && value.length < 3
 
@@ -93,12 +94,13 @@ const App = () => {
         <FieldError>Username must be at least 3 characters</FieldError>
       </TextField>
 
-      <ButtonV3 children="sdjnkjdskd" />
-      <Button children="sdjnkjdskd | success" variant="solid" color="success" />
+      <ButtonV3 children="Hello World :) - v3" />
+      <Button children="Hello World :) - v2" variant="solid" color="success" />
+
+      <Separator />
+
       <div>Welcome to Playground!...</div>
       <Posts />
     </>
   )
 }
-
-export default App
