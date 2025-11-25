@@ -1,3 +1,48 @@
+## 0.2.0 (2025-11-25)
+
+### 🚀 Features
+
+- added @vezham/styles ([01b9ea3](https://github.com/vezham/vx-fe-pkgs-timeline/commit/01b9ea3))
+- Add release workflow for automated publishing ([4c86475](https://github.com/vezham/vx-fe-pkgs-timeline/commit/4c86475))
+
+### 🩹 Fixes
+
+- added version alias ([43e6392](https://github.com/vezham/vx-fe-pkgs-timeline/commit/43e6392))
+- lint playground ([8043149](https://github.com/vezham/vx-fe-pkgs-timeline/commit/8043149))
+- ignore qa paths ([26e29db](https://github.com/vezham/vx-fe-pkgs-timeline/commit/26e29db))
+- Remove unused dependencies and Nx config ([a5727b0](https://github.com/vezham/vx-fe-pkgs-timeline/commit/a5727b0))
+- Update workflow actions to use post-ops and summary-qa ([284af7f](https://github.com/vezham/vx-fe-pkgs-timeline/commit/284af7f))
+- Update build command in release workflow ([e4f2129](https://github.com/vezham/vx-fe-pkgs-timeline/commit/e4f2129))
+
+### 🏡 Chore
+
+- ver bump to beta ([778fbfc](https://github.com/vezham/vx-fe-pkgs-timeline/commit/778fbfc))
+- enabled nx cloud ([d55b109](https://github.com/vezham/vx-fe-pkgs-timeline/commit/d55b109))
+- mig to @vezham 0.4.0-alpha.2 ([d4c0c97](https://github.com/vezham/vx-fe-pkgs-timeline/commit/d4c0c97))
+- code review ([1f27ba7](https://github.com/vezham/vx-fe-pkgs-timeline/commit/1f27ba7))
+- added license ([22f4143](https://github.com/vezham/vx-fe-pkgs-timeline/commit/22f4143))
+- mig nx ver & linted ([573cf27](https://github.com/vezham/vx-fe-pkgs-timeline/commit/573cf27))
+- Update docs and refactor release tool ([31b54c8](https://github.com/vezham/vx-fe-pkgs-timeline/commit/31b54c8))
+- test label ([151e241](https://github.com/vezham/vx-fe-pkgs-timeline/commit/151e241))
+- Add @vx-ci/build command to project config ([e401adf](https://github.com/vezham/vx-fe-pkgs-timeline/commit/e401adf))
+- Add support for custom args in release workflow ([ca7150f](https://github.com/vezham/vx-fe-pkgs-timeline/commit/ca7150f))
+- Update QA workflow branch patterns and step names ([89e9058](https://github.com/vezham/vx-fe-pkgs-timeline/commit/89e9058))
+- refined steps labels ([bc74c03](https://github.com/vezham/vx-fe-pkgs-timeline/commit/bc74c03))
+- Update release workflow step names and logic ([c3ce842](https://github.com/vezham/vx-fe-pkgs-timeline/commit/c3ce842))
+- **release:** publish 0.4.0-alpha.0 ([d2fb4fb](https://github.com/vezham/vx-fe-pkgs-timeline/commit/d2fb4fb))
+- **release:** publish 0.4.0-alpha.1 ([00d8a4c](https://github.com/vezham/vx-fe-pkgs-timeline/commit/00d8a4c))
+- **release:** publish 0.4.0-alpha.2 ([0e09be5](https://github.com/vezham/vx-fe-pkgs-timeline/commit/0e09be5))
+
+### 🤖 CI
+
+- revised qa run-name ([77f7dd3](https://github.com/vezham/vx-fe-pkgs-timeline/commit/77f7dd3))
+- Update QA workflow and cleanup project.json ([efd3d34](https://github.com/vezham/vx-fe-pkgs-timeline/commit/efd3d34))
+
+### ❤️ Thank You
+
+- v0xvigneshwaran
+- vx-vigneshwaran
+
 ## 0.4.0-alpha.2 (2025-11-12)
 
 ### 🚀 Features
