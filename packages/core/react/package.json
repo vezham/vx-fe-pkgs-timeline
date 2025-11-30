@@ -30,8 +30,9 @@
   "module": "./dist/index.js",
   "types": "./dist/index.d.ts",
   "files": [
+    "!**/*.tsbuildinfo",
     "dist",
-    "!**/*.tsbuildinfo"
+    "LICENSE"
   ],
   "dependencies": {
     "@vx-oss/heroui-v2-react": "^2.8.6-alpha.2",

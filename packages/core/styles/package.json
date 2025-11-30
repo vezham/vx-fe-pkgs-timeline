@@ -18,7 +18,8 @@
   "main": "./index.css",
   "style": "./index.css",
   "files": [
-    "dist"
+    "dist",
+    "LICENSE"
   ],
   "scripts": {
     "build": "pnpm run build:copy && pnpm run build:minify",
