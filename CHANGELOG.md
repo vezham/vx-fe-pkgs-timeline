@@ -1,3 +1,13 @@
+## 0.2.1 (2025-11-30)
+
+### 🏡 Chore
+
+- Update HeroUI dependencies to latest alpha versions ([057cafa](https://github.com/vezham/vx-fe-pkgs-timeline/commit/057cafa))
+
+### ❤️ Thank You
+
+- vx-vigneshwaran
+
 ## 0.2.0 (2025-11-25)
 
 ### 🚀 Features
