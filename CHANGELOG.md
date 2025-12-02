@@ -1,3 +1,18 @@
+## 0.2.2 (2025-12-02)
+
+### 📖 Documentation
+
+- Include LICENSE file in package distribution ([3b6593f](https://github.com/vezham/vx-fe-pkgs-timeline/commit/3b6593f))
+
+### 🏡 Chore
+
+- **release:** publish 0.4.0-alpha.3 ([5cd7cc7](https://github.com/vezham/vx-fe-pkgs-timeline/commit/5cd7cc7))
+
+### ❤️ Thank You
+
+- v0xvigneshwaran
+- vx-vigneshwaran
+
 ## 0.4.0-alpha.3 (2025-11-30)
 
 ### 🚀 Features
