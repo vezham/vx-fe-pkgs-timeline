@@ -1,3 +1,13 @@
+## 0.4.0-beta.0 (2026-02-08)
+
+### 🏡 Chore
+
+- Bump heroui package versions ([9a7f454](https://github.com/vezham/vx-fe-pkgs-timeline/commit/9a7f454))
+
+### ❤️ Thank You
+
+- vx-vigneshwaran
+
 ## 0.2.2 (2025-12-02)
 
 ### 📖 Documentation
