@@ -1,3 +1,21 @@
+## 0.2.3 (2026-02-11)
+
+### 🩹 Fixes
+
+- Update pnpm-lock.yaml, pin specs & bump deps ([29c8b72](https://github.com/vezham/vx-fe-pkgs-timeline/commit/29c8b72))
+
+### 🏡 Chore
+
+- Update vezham and vx-oss package versions ([1326f8c](https://github.com/vezham/vx-fe-pkgs-timeline/commit/1326f8c))
+- Bump heroui package versions ([9a7f454](https://github.com/vezham/vx-fe-pkgs-timeline/commit/9a7f454))
+- Bump @vezham to beta and refresh pnpm lock ([89d8010](https://github.com/vezham/vx-fe-pkgs-timeline/commit/89d8010))
+- **release:** publish 0.4.0-beta.0 ([01285bb](https://github.com/vezham/vx-fe-pkgs-timeline/commit/01285bb))
+
+### ❤️ Thank You
+
+- v0xvigneshwaran
+- vx-vigneshwaran
+
 ## 0.4.0-beta.0 (2026-02-08)
 
 ### 🏡 Chore
