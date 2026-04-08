@@ -35,7 +35,7 @@
     "LICENSE"
   ],
   "dependencies": {
-    "@vx-oss/heroui-v2-react": "^2.8.9-beta.0",
-    "@vx-oss/heroui-v3-react": "^3.0.0-beta.7"
+    "@vx-oss/heroui-v2-react": "2.9.0-beta.1",
+    "@vx-oss/heroui-v3-react": "3.0.3-beta.0"
   }
 }
