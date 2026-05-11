@@ -1,3 +1,13 @@
+## 0.4.1 (2026-05-11)
+
+### 🩹 Fixes
+
+- Export heroui v3 from React package for overrides ([8556575](https://github.com/vezham/vx-fe-pkgs-timeline/commit/8556575))
+
+### ❤️ Thank You
+
+- vx-vigneshwaran
+
 ## 0.4.0 (2026-04-08)
 
 ### 🏡 Chore
