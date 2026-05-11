@@ -1,3 +1,13 @@
+## 0.4.3 (2026-05-11)
+
+### 🩹 Fixes
+
+- Upgrade heroui v3 deps to 3.0.3 ([d38592b](https://github.com/vezham/vx-fe-pkgs-timeline/commit/d38592b))
+
+### ❤️ Thank You
+
+- vx-vigneshwaran
+
 ## 0.4.2 (2026-05-11)
 
 This was a version bump only, there were no code changes.
