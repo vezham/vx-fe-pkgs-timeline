@@ -1,3 +1,14 @@
+## 0.4.4 (2026-05-23)
+
+### 🩹 Fixes
+
+- Add @vezham/react-v2 package and migrate v2 files ([d69b1e3](https://github.com/vezham/vx-fe-pkgs-timeline/commit/d69b1e3))
+- Integrate @vezham/react-v2 across workspace ([5038342](https://github.com/vezham/vx-fe-pkgs-timeline/commit/5038342))
+
+### ❤️ Thank You
+
+- vx-vigneshwaran
+
 ## 0.4.3 (2026-05-11)
 
 ### 🩹 Fixes
