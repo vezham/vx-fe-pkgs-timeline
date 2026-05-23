@@ -6,7 +6,7 @@ import dts from 'vite-plugin-dts'
 
 export default defineConfig(() => ({
   root: __dirname,
-  cacheDir: '../../../node_modules/.vite/packages/core/react',
+  cacheDir: '../../../node_modules/.vite/packages/core/react-v2',
   plugins: [
     react(),
     dts({
@@ -14,12 +14,6 @@ export default defineConfig(() => ({
       tsconfigPath: path.join(__dirname, 'tsconfig.lib.json')
     })
   ],
-  // Uncomment this if you are using workers.
-  // worker: {
-  //  plugins: [ nxViteTsPaths() ],
-  // },
-  // Configuration for building your library.
-  // See: https://vitejs.dev/guide/build.html#library-mode
   build: {
     outDir: './dist',
     emptyOutDir: true,
@@ -28,28 +22,23 @@ export default defineConfig(() => ({
       transformMixedEsModules: true
     },
     lib: {
-      // Could also be a dictionary or array of multiple entry points.
-      // entry: 'src/index.ts',
       entry: {
         index: 'src/index.ts',
-        'heroui/v3/index': 'src/heroui/v3/index.ts'
+        'plugin/index': 'src/heroui/plugin/index.ts'
       },
-      name: 'react',
+      name: 'react-v2',
       fileName: 'index',
-      // Change this to the formats you want to support.
-      // Don't forget to update your package.json as well.
-      formats: ['es' as const] // ['es', 'cjs'],
+      formats: ['es' as const]
     },
     rollupOptions: {
-      // External packages that should not be bundled into your library.
       external: ['react', 'react-dom', 'react/jsx-runtime'],
       output: {
-        entryFileNames: ({ name }) => `${name}.js` // dist/<name>.js
+        entryFileNames: ({ name }) => `${name}.js`
       }
     }
   },
   test: {
-    name: 'react',
+    name: 'react-v2',
     watch: false,
     globals: true,
     environment: 'jsdom',

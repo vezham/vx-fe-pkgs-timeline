@@ -1,10 +1,10 @@
 {
-  "name": "@vezham/react",
+  "name": "@vezham/react-v2",
   "version": "0.4.3",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/vezham/vx-fe-pkgs-timeline.git",
-    "directory": "packages/core/react"
+    "directory": "packages/core/react-v2"
   },
   "type": "module",
   "exports": {
@@ -13,9 +13,9 @@
       "import": "./dist/index.js"
     },
     "./package.json": "./package.json",
-    "./v3": {
-      "types": "./dist/heroui/v3/index.d.ts",
-      "import": "./dist/heroui/v3/index.js"
+    "./plugin": {
+      "types": "./dist/plugin/index.d.ts",
+      "import": "./dist/plugin/index.js"
     }
   },
   "main": "./dist/index.js",
@@ -27,6 +27,6 @@
     "LICENSE"
   ],
   "dependencies": {
-    "@vx-oss/heroui-v3-react": "3.0.3"
+    "@vx-oss/heroui-v2-react": "2.9.0-beta.1"
   }
 }
