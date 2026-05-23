@@ -54,6 +54,7 @@
     "@types/react-dom": "19.0.0",
     "@types/yargs": "^17.0.33",
     "@vezham/react": "workspace:*",
+    "@vezham/react-v2": "workspace:*",
     "@vezham/styles": "workspace:*",
     "@vezham/use-logger": "0.3.3",
     "@vitejs/plugin-react": "^4.2.0",

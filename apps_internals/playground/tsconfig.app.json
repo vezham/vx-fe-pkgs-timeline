@@ -38,6 +38,9 @@
       "path": "../../packages/core/react/tsconfig.lib.json"
     },
     {
+      "path": "../../packages/core/react-v2/tsconfig.lib.json"
+    },
+    {
       "path": "../../packages/vx/system-utils/tsconfig.lib.json"
     },
     {

@@ -19,6 +19,9 @@
     },
     {
       "path": "./packages/core/react"
+    },
+    {
+      "path": "./packages/core/react-v2"
     }
   ]
 }

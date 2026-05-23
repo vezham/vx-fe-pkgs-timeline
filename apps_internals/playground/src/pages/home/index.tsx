@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/react'
 import { useState } from 'react'
 
-import { Button } from '@vezham/react/v2'
+import { Button } from '@vezham/react-v2'
 import {
   Avatar,
   Button as ButtonV3,
